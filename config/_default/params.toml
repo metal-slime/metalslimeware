@@ -17,7 +17,7 @@ enableCodeCopy = false
 
 disableImageOptimization = true
 
-defaultBackgroundImage = "img/japan_town1.jpg" # used as default for background images 
+defaultBackgroundImage = "img/japan_town2.jpg" # used as default for background images 
 defaultFeaturedImage = "img/slime_comp1.jpg" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
@@ -36,7 +36,7 @@ defaultFeaturedImage = "img/slime_comp1.jpg" # used as default for featured imag
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  #homepageImage = "IMAGE.jpg" # used in: hero, and card
+  homepageImage = "img/japan_town1.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 5
   showMoreLink = true
@@ -94,7 +94,7 @@ defaultFeaturedImage = "img/slime_comp1.jpg" # used as default for featured imag
 
 [taxonomy]
   showTermCount = true
-  showHero = false
+  showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true
   showBreadcrumbs = false
@@ -106,6 +106,7 @@ defaultFeaturedImage = "img/slime_comp1.jpg" # used as default for featured imag
 [term]
   showHero = false
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  backgroundImage = 'img/japan_town2.jpg'
   layoutBackgroundBlur = true
   showBreadcrumbs = false
   showViews = false
