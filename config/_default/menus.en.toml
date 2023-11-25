@@ -15,10 +15,10 @@
   pageRef = "posts"
   weight = 10
 
-[[main]]
-  name = "Topics"
-  pageRef = "topics"
-  weight = 20
+#[[main]]
+#  name = "Topics"
+#  pageRef = "topics"
+#  weight = 20
 
 
 [[main]]
@@ -29,7 +29,7 @@
 
 [[footer]]
   name = "Privacy"
-  url = "https://external-link"
+  url = "/privacy-policy"
 
 
 #[[main]]
