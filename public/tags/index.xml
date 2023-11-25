@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Joe&#39;s Tech Journey</title>
-    <link>https://joekkelly.com/tags/</link>
-    <description>Recent content in Tags on Joe&#39;s Tech Journey</description>
+    <title>Tags on Metal Slimeware</title>
+    <link>https://metalslimeware.com/tags/</link>
+    <description>Recent content in Tags on Metal Slimeware</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>© 2023 </copyright>
-    <atom:link href="https://joekkelly.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>© 2023 Joe Kelly</copyright>
+    <atom:link href="https://metalslimeware.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

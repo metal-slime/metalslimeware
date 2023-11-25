@@ -1,12 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Joe&#39;s Tech Journey</title>
-    <link>https://joekkelly.com/</link>
-    <description>Recent content on Joe&#39;s Tech Journey</description>
+    <title>Metal Slimeware</title>
+    <link>https://metalslimeware.com/</link>
+    <description>Recent content on Metal Slimeware</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>© 2023 </copyright>
-    <atom:link href="https://joekkelly.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>© 2023 Joe Kelly</copyright>
+    <lastBuildDate>Fri, 24 Nov 2023 16:49:26 -0600</lastBuildDate><atom:link href="https://metalslimeware.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setting Up</title>
+      <link>https://metalslimeware.com/posts/setting-up/</link>
+      <pubDate>Fri, 24 Nov 2023 16:49:26 -0600</pubDate>
+      
+      <guid>https://metalslimeware.com/posts/setting-up/</guid>
+      <description>Setting Up metalslimeware.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://metalslimeware.com/posts/setting-up/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://metalslimeware.com/posts/welcome/</link>
+      <pubDate>Fri, 24 Nov 2023 16:26:37 -0600</pubDate>
+      
+      <guid>https://metalslimeware.com/posts/welcome/</guid>
+      <description>Introduction # Hello!</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://metalslimeware.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://metalslimeware.com/about/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>
