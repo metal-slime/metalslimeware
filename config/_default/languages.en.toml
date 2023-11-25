@@ -11,7 +11,7 @@ title = "Metal Slimeware"
   logo = "img/slime_logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:"
+  # copyright = "Copyright Joe Kelly and metalslimeware"
 
 [author]
   name = "Joe Kelly"

@@ -79,8 +79,8 @@ defaultFeaturedImage = "img/slime_comp1.jpg" # used as default for featured imag
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
   showBreadcrumbs = false
-  showSummary = false
-  showViews = false
+  showSummary = true
+  showViews = true
   showLikes = false
   showTableOfContents = false
   showCards = false
@@ -95,7 +95,8 @@ defaultFeaturedImage = "img/slime_comp1.jpg" # used as default for featured imag
 [taxonomy]
   showTermCount = true
   showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur = true
   showBreadcrumbs = false
   showViews = false
   showLikes = false
@@ -104,7 +105,8 @@ defaultFeaturedImage = "img/slime_comp1.jpg" # used as default for featured imag
 
 [term]
   showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur = true
   showBreadcrumbs = false
   showViews = false
   showLikes = false
