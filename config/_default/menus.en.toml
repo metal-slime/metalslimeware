@@ -15,17 +15,22 @@
   pageRef = "posts"
   weight = 10
 
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 20
+
 #[[main]]
 #  name = "Topics"
 #  pageRef = "topics"
 #  weight = 20
 
 
-[[main]]
-  identifier = "github2"
-  pre = "github"
-  url = "https://github.com/metal-slime"
-  weight = 40
+#[[main]]
+#  identifier = "github2"
+#  pre = "github"
+#  url = "https://github.com/metal-slime"
+#  weight = 40
 
 [[footer]]
   name = "Privacy"

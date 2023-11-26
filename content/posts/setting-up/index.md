@@ -2,7 +2,7 @@
 title = 'Setting Up'
 date = 2023-11-24T16:49:26-06:00
 draft = false
-tags = ['hugo', 'blog', 'install']
+tags = ['hugo', 'install']
 +++
 
 ## Setting Up metalslimeware.com
